@@ -1,6 +1,6 @@
 # Hello
 
-## Added Public-private.py 
+## Public and Private Variables 
 
 #### Public variables 
 
